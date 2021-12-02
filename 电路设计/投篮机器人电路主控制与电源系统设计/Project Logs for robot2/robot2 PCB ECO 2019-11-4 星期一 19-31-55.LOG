@@ -1,0 +1,20 @@
+Added Component: Designator=DIRVER(DIRVER2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=DIRVER-1
+Added Pin To Net: NetName=3V3 Pin=DIRVER-2
+Added Pin To Net: NetName=F0 Pin=DIRVER-3
+Added Pin To Net: NetName=F1 Pin=DIRVER-4
+Added Pin To Net: NetName=F2 Pin=DIRVER-5
+Added Pin To Net: NetName=F3 Pin=DIRVER-6
+Added Pin To Net: NetName=F4 Pin=DIRVER-7
+Added Pin To Net: NetName=F5 Pin=DIRVER-8
+Added Pin To Net: NetName=F6 Pin=DIRVER-9
+Added Pin To Net: NetName=F7 Pin=DIRVER-10
+Added Pin To Net: NetName=F8 Pin=DIRVER-11
+Added Pin To Net: NetName=F9 Pin=DIRVER-12
+Added Pin To Net: NetName=GND Pin=DIRVER-13
+Added Pin To Net: NetName=GND Pin=DIRVER-14
+Added Pin To Net: NetName=C6 Pin=DIRVER-15
+Added Pin To Net: NetName=C7 Pin=DIRVER-16
+Added Pin To Net: NetName=C8 Pin=DIRVER-17
+Added Pin To Net: NetName=C9 Pin=DIRVER-18

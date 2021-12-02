@@ -1,0 +1,73 @@
+Removed Member From Class: ClassName=Energy Member=PI
+Change Component Designator: OldDesignator=8M NewDesignator=Y3
+Change Component Designator: OldDesignator=12M NewDesignator=Y1
+Change Component Designator: OldDesignator=32K NewDesignator=Y2
+Change Component Designator: OldDesignator=BOOT NewDesignator=P1
+Change Component Designator: OldDesignator=COUMMNICATION NewDesignator=PiEnergy2
+Change Component Designator: OldDesignator=Dev NewDesignator=Dev_Key
+Change Component Designator: OldDesignator=OLED NewDesignator=*
+Change Component Designator: OldDesignator=PI NewDesignator=P3
+Change Component Designator: OldDesignator=PI NewDesignator=PI_KEY
+Change Component Designator: OldDesignator=STLINK NewDesignator=JP1
+Change Component Designator: OldDesignator=UART NewDesignator=P2
+Change component parameters: Designator = "ARM1"; Footprint = "HDR-3X2"; UniqueID = "\HNSTFDRE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3*2P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CAMERA1"; Footprint = "HDR-3X2"; UniqueID = "\LOIMIIJF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3*2P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1"; Footprint = "SOP16_M"; UniqueID = "\YEGQLHQL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "串口转USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1"; Footprint = "HDR-1X4_M"; UniqueID = "\SUIPYLOM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "TSW SMD-3*6*2.5"; UniqueID = "\HETBSENU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "LQFP144 20X20_M"; UniqueID = "\CGOAIIUN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "32位ST单片机"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD1"; Footprint = "MINI_MELF (LL34)"; UniqueID = "\OFELEWOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高速开关二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "SOT23-3M"; UniqueID = "\YPKXTSRV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高频放大-NPN型"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2"; Footprint = "SOT23-3M"; UniqueID = "\EGEGMXUY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高频放大-PNP型"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=PiEnergy1(USB3.0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PI Pin=PiEnergy1-1
+Added Pin To Net: NetName=GND Pin=PiEnergy1-4
+Added Pin To Net: NetName=GND Pin=PiEnergy1-7
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetENY_1
+Added Member To Class: ClassName=Energy Member=Component 33uH L2
+Added Member To Class: ClassName=Energy Member=Component 33uH L4
+Added Member To Class: ClassName=Energy Member=Component 33uH L3
+Added Member To Class: ClassName=Energy Member=Component PI_KEY
+Added Member To Class: ClassName=Device Member=Component PiEnergy1 USB3.0
+Added Room: Name=Device
+Added Room: Name=Energy
+Added Room: Name=SYSTEM

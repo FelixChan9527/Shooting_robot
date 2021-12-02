@@ -1,0 +1,23 @@
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net33uH_1 Pin=33uH-1
+Added Pin To Net: NetName=Net33uH_1 Pin=33uH-1
+Added Pin To Net: NetName=Net33uH_1 Pin=33uH-1
+Added Pin To Net: NetName=Net33uH_1 Pin=33uH-1
+Added Pin To Net: NetName=5V Pin=33uH-2
+Added Pin To Net: NetName=ARM Pin=33uH-2
+Added Pin To Net: NetName=CAM Pin=33uH-2
+Added Pin To Net: NetName=PI Pin=33uH-2
+Added Member To Class: ClassName=Energy Member=Component 33uH L1
+Added Member To Class: ClassName=Energy Member=Component 33uH L3
+Added Member To Class: ClassName=Energy Member=Component 33uH L4
+Added Member To Class: ClassName=Energy Member=Component 33uH L2
+Added Room: Name=Device
+Added Room: Name=Energy
+Added Room: Name=SYSTEM

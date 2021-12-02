@@ -1,0 +1,154 @@
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=33uH(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetAS1_5 Pin=33uH-1
+Added Pin To Net: NetName=NetAS2_5 Pin=33uH-1
+Added Pin To Net: NetName=NetAS3_5 Pin=33uH-1
+Added Pin To Net: NetName=NetAS4_5 Pin=33uH-1
+Added Pin To Net: NetName=5V Pin=33uH-2
+Added Pin To Net: NetName=ARM Pin=33uH-2
+Added Pin To Net: NetName=CAM Pin=33uH-2
+Added Pin To Net: NetName=PI Pin=33uH-2
+Change Net Name : Old Net Name=NetAS1_5 New Net Name=Net33uH_1
+Change Net Name : Old Net Name=NetAS2_5 New Net Name=Net33uH_1
+Change Net Name : Old Net Name=NetAS3_5 New Net Name=Net33uH_1
+Change Net Name : Old Net Name=NetAS4_5 New Net Name=Net33uH_1
+Added Member To Class: ClassName=Device Member=Component * P?
+Added Member To Class: ClassName=Device Member=Component 3V3 Header 5
+Added Member To Class: ClassName=Device Member=Component 5V Header 5
+Added Member To Class: ClassName=Energy Member=Component 12OUT HEAD2
+Added Member To Class: ClassName=Energy Member=Component 12VIN HEAD2
+Added Member To Class: ClassName=Energy Member=Component 33uH L3
+Added Member To Class: ClassName=Energy Member=Component 33uH L1
+Added Member To Class: ClassName=Energy Member=Component 33uH L4
+Added Member To Class: ClassName=Energy Member=Component 33uH L2
+Added Member To Class: ClassName=Device Member=Component ARM1 Header3X2
+Added Member To Class: ClassName=Energy Member=Component AS1 U1
+Added Member To Class: ClassName=Energy Member=Component AS2 U1
+Added Member To Class: ClassName=Energy Member=Component AS3 U1
+Added Member To Class: ClassName=Energy Member=Component AS4 U1
+Added Member To Class: ClassName=Device Member=Component B LED0
+Added Member To Class: ClassName=SYSTEM Member=Component C1 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C2 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C3 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C4 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C5 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C6 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C7 Cap Pol(22uF)
+Added Member To Class: ClassName=SYSTEM Member=Component C8 Cap Pol(22uF)
+Added Member To Class: ClassName=SYSTEM Member=Component C9 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C10 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C11 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C12 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C13 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C14 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C15 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C16 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C17 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C18 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C19 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C20 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C21 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C22 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C23 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C24 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C25 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C26 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C27 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C28 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C29 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C30 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C31 Cap
+Added Member To Class: ClassName=SYSTEM Member=Component C32 Cap
+Added Member To Class: ClassName=Energy Member=Component C33 Cap
+Added Member To Class: ClassName=Energy Member=Component C34 Cap
+Added Member To Class: ClassName=Energy Member=Component C35 Cap
+Added Member To Class: ClassName=Energy Member=Component C36 Cap
+Added Member To Class: ClassName=Energy Member=Component C37 Cap
+Added Member To Class: ClassName=Energy Member=Component C38 Cap
+Added Member To Class: ClassName=Energy Member=Component C39 Cap
+Added Member To Class: ClassName=Energy Member=Component C40 Cap
+Added Member To Class: ClassName=Device Member=Component CAMERA1 Header3X2
+Added Member To Class: ClassName=Device Member=Component COLOR
+Added Member To Class: ClassName=Energy Member=Component D1 IN5824
+Added Member To Class: ClassName=Energy Member=Component D2 IN5824
+Added Member To Class: ClassName=Energy Member=Component D3 IN5824
+Added Member To Class: ClassName=Energy Member=Component D4 IN5824
+Added Member To Class: ClassName=Energy Member=Component Dev_Key
+Added Member To Class: ClassName=Device Member=Component Dirver P?
+Added Member To Class: ClassName=Energy Member=Component EC1 330uF
+Added Member To Class: ClassName=Energy Member=Component EC2 330uF
+Added Member To Class: ClassName=Energy Member=Component EC3 330uF
+Added Member To Class: ClassName=Energy Member=Component EC4 330uF
+Added Member To Class: ClassName=Energy Member=Component EC5 330uF
+Added Member To Class: ClassName=Energy Member=Component EC6 330uF
+Added Member To Class: ClassName=Energy Member=Component EC7 330uF
+Added Member To Class: ClassName=Energy Member=Component EC8 330uF
+Added Member To Class: ClassName=Energy Member=Component ENY
+Added Member To Class: ClassName=Device Member=Component GND Header 5
+Added Member To Class: ClassName=Device Member=Component G LED0
+Added Member To Class: ClassName=SYSTEM Member=Component IC1 CH340G
+Added Member To Class: ClassName=Device Member=Component IO Header 5
+Added Member To Class: ClassName=SYSTEM Member=Component JP1 HDR-1X4
+Added Member To Class: ClassName=SYSTEM Member=Component LED1 LED0
+Added Member To Class: ClassName=Device Member=Component LED2 LED0
+Added Member To Class: ClassName=Device Member=Component LED3 LED0
+Added Member To Class: ClassName=SYSTEM Member=Component P1 H3X2
+Added Member To Class: ClassName=SYSTEM Member=Component P2 Header 4
+Added Member To Class: ClassName=Device Member=Component P3 Header 3
+Added Member To Class: ClassName=Device Member=Component P4 Infra
+Added Member To Class: ClassName=SYSTEM Member=Component P5 Header 2X2
+Added Member To Class: ClassName=Device Member=Component P6 Infra
+Added Member To Class: ClassName=Device Member=Component P7 Infra
+Added Member To Class: ClassName=Device Member=Component P8 Infra
+Added Member To Class: ClassName=Energy Member=Component PI_KEY
+Added Member To Class: ClassName=Device Member=Component PiEnergy1 USB3.0
+Added Member To Class: ClassName=SYSTEM Member=Component PiEnergy2 USB3.0
+Added Member To Class: ClassName=SYSTEM Member=Component Q1 SS8050
+Added Member To Class: ClassName=SYSTEM Member=Component Q2 SS8550
+Added Member To Class: ClassName=SYSTEM Member=Component R1 10K
+Added Member To Class: ClassName=SYSTEM Member=Component R2 10K
+Added Member To Class: ClassName=SYSTEM Member=Component R3 10K
+Added Member To Class: ClassName=SYSTEM Member=Component R4 1K
+Added Member To Class: ClassName=SYSTEM Member=Component R5 1K
+Added Member To Class: ClassName=SYSTEM Member=Component R6 1K
+Added Member To Class: ClassName=SYSTEM Member=Component R7 1K
+Added Member To Class: ClassName=SYSTEM Member=Component R8 1M
+Added Member To Class: ClassName=SYSTEM Member=Component R9 0R
+Added Member To Class: ClassName=SYSTEM Member=Component R10 10K
+Added Member To Class: ClassName=SYSTEM Member=Component R11 10R
+Added Member To Class: ClassName=Energy Member=Component R12 5K6
+Added Member To Class: ClassName=Energy Member=Component R13 7K5
+Added Member To Class: ClassName=Energy Member=Component R14 3K3
+Added Member To Class: ClassName=Energy Member=Component R15 1K
+Added Member To Class: ClassName=Energy Member=Component R16 7K5
+Added Member To Class: ClassName=Energy Member=Component R17 510R
+Added Member To Class: ClassName=Energy Member=Component R18 3K3
+Added Member To Class: ClassName=Energy Member=Component R19 7K5
+Added Member To Class: ClassName=Energy Member=Component R20 510R
+Added Member To Class: ClassName=Energy Member=Component R21 5K6
+Added Member To Class: ClassName=Energy Member=Component R22 7K5
+Added Member To Class: ClassName=Energy Member=Component R23 1K
+Added Member To Class: ClassName=Device Member=Component R24 1K
+Added Member To Class: ClassName=Device Member=Component R25 1K
+Added Member To Class: ClassName=Device Member=Component R26 1K
+Added Member To Class: ClassName=Device Member=Component R27 1K
+Added Member To Class: ClassName=Device Member=Component R28 1K
+Added Member To Class: ClassName=Energy Member=Component R29 10K
+Added Member To Class: ClassName=Energy Member=Component R30 2K
+Added Member To Class: ClassName=Device Member=Component R LED0
+Added Member To Class: ClassName=SYSTEM Member=Component SW1 3x6x5
+Added Member To Class: ClassName=SYSTEM Member=Component U1 AMS1117-3.3
+Added Member To Class: ClassName=SYSTEM Member=Component U2 STM32F407ZG
+Added Member To Class: ClassName=SYSTEM Member=Component VD1 1N4148
+Added Member To Class: ClassName=SYSTEM Member=Component Y1 XTAL
+Added Member To Class: ClassName=SYSTEM Member=Component Y2 XTAL
+Added Member To Class: ClassName=SYSTEM Member=Component Y3 XTAL
+Added Room: Name=Device
+Added Room: Name=Energy
+Added Room: Name=SYSTEM

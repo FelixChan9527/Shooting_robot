@@ -1,0 +1,23 @@
+Added Component: Designator=L1(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L4(INDUCTOR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetAS1_5 Pin=L1-1
+Added Pin To Net: NetName=PI Pin=L1-2
+Added Pin To Net: NetName=NetAS2_5 Pin=L2-1
+Added Pin To Net: NetName=ARM Pin=L2-2
+Added Pin To Net: NetName=NetAS3_5 Pin=L3-1
+Added Pin To Net: NetName=CAM Pin=L3-2
+Added Pin To Net: NetName=NetAS4_5 Pin=L4-1
+Added Pin To Net: NetName=5V Pin=L4-2
+Added Member To Class: ClassName=Energy Member=Component L1 33uH
+Added Member To Class: ClassName=Energy Member=Component L2 33uH
+Added Member To Class: ClassName=Energy Member=Component L3 33uH
+Added Member To Class: ClassName=Energy Member=Component L4 33uH
+Added Room: Name=Device
+Added Room: Name=Energy
+Added Room: Name=SYSTEM
